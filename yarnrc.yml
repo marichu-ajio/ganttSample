@@ -1,0 +1,10 @@
+npmScopes: {
+  bryntum: {
+    npmRegistryServer: https://npm.bryntum.com,
+    npmAlwaysAuth: true,
+    npmAuthIdent: marichu..ajio.co.jp,
+    npmAuthToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWFsX2dyb3VwcyI6WyJ0cmlhbCJdLCJuYW1lIjoibWFyaWNodS4uYWppby5jby5qcCIsImdyb3VwcyI6WyJ0cmlhbCIsIiRhbGwiLCIkYXV0aGVudGljYXRlZCIsIkBhbGwiLCJAYXV0aGVudGljYXRlZCIsImFsbCJdL
+             CJpYXQiOjE3MTk0NzU1MjEsIm5iZiI6MTcxOTQ3NTUyMSwiZXhwIjoyNTgzMzg5MTIxfQ.FehRItjnuVOHaBpzZ47_dYF441VHqbkbVG2mZ2EDOGk
+
+  }
+}
