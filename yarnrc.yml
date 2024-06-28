@@ -4,6 +4,6 @@ npmScopes: {
     npmAlwaysAuth: true,
     npmAuthIdent: marichu..ajio.co.jp,
     npmAuthToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWFsX2dyb3VwcyI6WyJ0cmlhbCJdLCJuYW1lIjoibWFyaWNodS4uYWppby5jby5qcCIsImdyb3VwcyI6WyJ0cmlhbCIsIiRhbGwiLCIkYXV0aGVudGljYXRlZCIsIkBhbGwiLCJAYXV0aGVudGljYXRlZCIsImFsbCJdL
-             CJpYXQiOjE3MTk1NDMyNjgsIm5iZiI6MTcxOTU0MzI2OCwiZXhwIjoyNTgzNDU2ODY4fQ.5GOvgiXSS6hRdh9rEdFhKLHUzPkqjbLL8FF2_k7M_6k
+             CJpYXQiOjE3MTk1NDQ5MDUsIm5iZiI6MTcxOTU0NDkwNSwiZXhwIjoyNTgzNDU4NTA1fQ.45pGCJz32YWJxH6XkMSnenFkddWhfhHsole8LdI9FBknpm token list --registry=https://npm.bryntum.com
   }
 }
