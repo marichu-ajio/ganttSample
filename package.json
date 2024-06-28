@@ -12,6 +12,7 @@
   "dependencies": {
     "@bryntum/gantt": "npm:@bryntum/gantt-trial@^5.6.13",
     "@bryntum/gantt-react": "^5.6.13",
+    "@mui/x-license-pro": "^6.10.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },

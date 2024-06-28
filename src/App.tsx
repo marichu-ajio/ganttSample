@@ -1,9 +1,15 @@
 import { BryntumGantt } from "@bryntum/gantt-react";
 import { ganttConfig } from "./GanttConfig";
 import "./App.scss";
+import MuiXLicense from "./MuiXLicense.tsx";
 
 function App() {
-    return <BryntumGantt {...ganttConfig} />;
+    return (
+        <>
+            <MuiXLicense /> {/* Ensure the license is set */}
+            <BryntumGantt {...ganttConfig} />
+        </>
+    );
 }
 
 // If you plan to use stateful React collections for data binding please check this guide
