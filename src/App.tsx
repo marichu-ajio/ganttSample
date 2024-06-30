@@ -1,7 +1,8 @@
-import { BryntumGantt } from "@bryntum/gantt-react";
+import dynamic from 'next/dynamic';
 import { ganttConfig } from "./GanttConfig";
-import "./App.scss";
 import MuiXLicense from "./MuiXLicense.tsx";
+
+const BryntumGantt = dynamic(() => import("@bryntum/gantt-react").then(mod => mod.BryntumGantt), { ssr: false });
 
 function App() {
     return (
@@ -11,8 +12,5 @@ function App() {
         </>
     );
 }
-
-// If you plan to use stateful React collections for data binding please check this guide
-// https://bryntum.com/products/gantt/docs/guide/Gantt/integration/react/data-binding
 
 export default App;
