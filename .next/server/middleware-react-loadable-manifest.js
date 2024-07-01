@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"src\\\\App.tsx -> @bryntum/gantt-react\":{\"id\":\"src\\\\App.tsx -> @bryntum/gantt-react\",\"files\":[\"static/chunks/node_modules_bryntum_gantt-react_lib_index_js.js\"]}}"

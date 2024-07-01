@@ -24,6 +24,7 @@
     "@types/react": "~18.2.14",
     "@types/react-dom": "~18.2.6",
     "@vitejs/plugin-react": "~4.0.1",
+    "eslint": "^9.6.0",
     "postinstall": "~0.7.4",
     "sass": "~1.69.6",
     "typescript": "~5.1.6",
